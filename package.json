@@ -12,7 +12,6 @@
     "node": "9.9.0"
   },
   "scripts": {
-    "start": "node index.js",
-	"postinstall": "cd client && npm install"
+    "start": "node index.js"	
   }
 }
